@@ -1,4 +1,4 @@
-### Hey! sou o André Luiz
+### Hey, I'm André Luiz! 👋
 
 - 🌱 Java Developer
 - 📧 Contato: andreluizz3636@gmail.com
